@@ -1,0 +1,106 @@
+[
+  {
+    "code": "000568",
+    "pages": 195,
+    "section_markers": 9,
+    "chunks": 2333,
+    "table_rows": 1859,
+    "sha256": "4c8ab78fac56032945e2ad789fddbc5b6e254251f497eb20c04b73016a03b4de"
+  },
+  {
+    "code": "000596",
+    "pages": 180,
+    "section_markers": 0,
+    "chunks": 2204,
+    "table_rows": 1810,
+    "sha256": "15657fd098bf90d43337fde37536bb492b8372094fae2e07ac5f5da5254618f2"
+  },
+  {
+    "code": "000799",
+    "pages": 152,
+    "section_markers": 9,
+    "chunks": 1927,
+    "table_rows": 1600,
+    "sha256": "226896c72fdc7690e453592996014da12d6ef7ca18f4da490cd082bf5b480075"
+  },
+  {
+    "code": "000858",
+    "pages": 147,
+    "section_markers": 9,
+    "chunks": 2180,
+    "table_rows": 1803,
+    "sha256": "b737191a758994a35e9442d46847de771fe48b758feb9a7f35601def922435e7"
+  },
+  {
+    "code": "002304",
+    "pages": 173,
+    "section_markers": 10,
+    "chunks": 2041,
+    "table_rows": 1638,
+    "sha256": "436928c6acaac79332794412514d191c7e60451e2c093e91a954aebfbde379a2"
+  },
+  {
+    "code": "600519",
+    "pages": 143,
+    "section_markers": 8,
+    "chunks": 2226,
+    "table_rows": 1858,
+    "sha256": "5299f4940e2ce4e91084b73dc457d558b9d335fa76fbfee6227e4254eb7f4a30"
+  },
+  {
+    "code": "600559",
+    "pages": 201,
+    "section_markers": 8,
+    "chunks": 2051,
+    "table_rows": 1597,
+    "sha256": "92fd6aa36d7b67518ec5d74ba6fdea03c66ab4a259781de84097a496f93f35cd"
+  },
+  {
+    "code": "600702",
+    "pages": 202,
+    "section_markers": 10,
+    "chunks": 2477,
+    "table_rows": 1978,
+    "sha256": "7b29f3f5c93f0aa9f3f032a47bc3b71165fe73cc96559d9cfc9033e00946e1a9"
+  },
+  {
+    "code": "600779",
+    "pages": 205,
+    "section_markers": 8,
+    "chunks": 1823,
+    "table_rows": 1415,
+    "sha256": "ed676abaaefb33729b1d8dc449ef74f565c2366bfd5326f8781e8bdc85715838"
+  },
+  {
+    "code": "600809",
+    "pages": 167,
+    "section_markers": 8,
+    "chunks": 1893,
+    "table_rows": 1508,
+    "sha256": "78de5a7c9d36eca230c96dce5dbba261747ca9044588dcd7537cc96399888daf"
+  },
+  {
+    "code": "603198",
+    "pages": 218,
+    "section_markers": 8,
+    "chunks": 1938,
+    "table_rows": 1494,
+    "sha256": "cf551fdd11a8bc5e5e925646d7bc9f141e844a7165e995911d9cb614a40b4dc2"
+  },
+  {
+    "code": "603369",
+    "pages": 173,
+    "section_markers": 7,
+    "chunks": 2058,
+    "table_rows": 1638,
+    "sha256": "b42c8bc47bf90836eb87eeef2a715ce9d37572f52db6809c4bed34d6fabb0377"
+  },
+  {
+    "code": "603589",
+    "pages": 231,
+    "section_markers": 8,
+    "chunks": 1762,
+    "table_rows": 1324,
+    "sha256": "d1259d8ed0139dc9d32a8c5b31741cb6741f5f7efd0230e059271d8d275dfbcc"
+  }
+]
